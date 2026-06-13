@@ -60,12 +60,12 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.15,
+          "min_clearance": 0.912,
           "min_island_area": 9.99999999996,
-          "min_thickness": 0.25,
+          "min_thickness": 0.0254,
           "pad_connection": 2,
-          "remove_islands": 0,
-          "thermal_relief_gap": 0.15,
+          "remove_islands": 1,
+          "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
       },
@@ -773,7 +773,7 @@
         "uuid": "6d260a24-da62-4b21-aa3c-1e413f71646f"
       }
     ],
-    "used_designators": "C40",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
