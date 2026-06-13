@@ -38,14 +38,14 @@ jobs:
           --quality high \
           --width 2000 \
           --height 2000 \
-          --zoom 0.9 \
+          --zoom 1 \
           --rotate 315,0,45
           kicad-cli pcb render "$PCB_FILE" \
           --output isometric_bottom.png \
           --quality high \
           --width 2000 \
           --height 2000 \
-          --zoom 0.9 \
+          --zoom 1 \
           --rotate 315,180,135
 
       - name: Commit results
@@ -53,5 +53,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add isometric_top.png isometric_bottom.png
-          git commit -m "Update board images"
+          git commit -m "Update board images [${GITHUB_SHA::7}]"
           git push
