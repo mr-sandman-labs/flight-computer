@@ -29,7 +29,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo add-apt-repository ppa:kicad/kicad-9.0-releases
+          sudo add-apt-repository --yes ppa:kicad/kicad-10.0-releases
           sudo apt update
           sudo apt install kicad -y --no-install-recommends
           sudo apt install -y fonts-open-sans xvfb
