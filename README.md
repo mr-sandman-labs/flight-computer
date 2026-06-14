@@ -1,2 +1,2 @@
-![](./isometric_top.png)
-![](./isometric_bottom.png)
+![](./development/isometric_top.png)
+![](./development/isometric_bottom.png)
