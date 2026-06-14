@@ -5161,6 +5161,15 @@
 		(uuid "8b1575ff-c943-44fb-92ec-27a57fba0d4d")
 	)
 	(bus_entry
+		(at 57.15 54.61)
+		(size 2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2240483e-2698-418a-b308-522f914e9a39")
+	)
+	(bus_entry
 		(at 17.78 31.75)
 		(size 2.54 2.54)
 		(stroke
@@ -7712,7 +7721,6 @@
 		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "42d4fe22-f652-450c-8fed-be60e44ebb59")
 		(property "Reference" "#PWR062"
 			(at 59.69 62.23 0)
