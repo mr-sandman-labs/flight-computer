@@ -49,12 +49,12 @@ jobs:
       - name: Generate PCB PDF
         run: |
           kicad-cli pcb export pdf "$PCB_FILE" \
-          --output "$OUTPUT_DIR" \
+          --output "$OUTPUT_DIR/pcb.pdf" \
           --mode-multipage \
           --include-border-title \
           --sketch-pads-on-fab-layers \
           --layers F.Fab,B.Fab,F.Cu,In1.Cu,In2.Cu,B.Cu,F.Mask,B.Mask \
-          --common-layers Edge.Cuts,User.Drawings"
+          --common-layers Edge.Cuts,User.Drawings
 
       - name: Generate BOM
         run: |
