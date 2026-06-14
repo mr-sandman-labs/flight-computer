@@ -6130,7 +6130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "passive_inductor:L_0402_Density_Nominal"
 			(at 100.33 39.37 0)
 			(hide yes)
 			(show_name yes)
