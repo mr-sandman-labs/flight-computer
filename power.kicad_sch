@@ -15695,7 +15695,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C4")
 					(unit 1)
 				)
@@ -15779,7 +15779,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR033")
 					(unit 1)
 				)
@@ -15863,7 +15863,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR016")
 					(unit 1)
 				)
@@ -15947,7 +15947,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR027")
 					(unit 1)
 				)
@@ -16136,7 +16136,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "U16")
 					(unit 1)
 				)
@@ -16213,7 +16213,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR072")
 					(unit 1)
 				)
@@ -16427,7 +16427,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C42")
 					(unit 1)
 				)
@@ -16511,7 +16511,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR05")
 					(unit 1)
 				)
@@ -16595,7 +16595,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR022")
 					(unit 1)
 				)
@@ -16823,7 +16823,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R15")
 					(unit 1)
 				)
@@ -17054,7 +17054,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R12")
 					(unit 1)
 				)
@@ -17138,7 +17138,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR015")
 					(unit 1)
 				)
@@ -17366,7 +17366,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J3")
 					(unit 1)
 				)
@@ -17594,7 +17594,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R30")
 					(unit 1)
 				)
@@ -17809,7 +17809,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C41")
 					(unit 1)
 				)
@@ -18040,7 +18040,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R43")
 					(unit 1)
 				)
@@ -18124,7 +18124,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR011")
 					(unit 1)
 				)
@@ -18332,7 +18332,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D2")
 					(unit 1)
 				)
@@ -18560,7 +18560,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R45")
 					(unit 1)
 				)
@@ -18791,7 +18791,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R20")
 					(unit 1)
 				)
@@ -19000,7 +19000,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D6")
 					(unit 1)
 				)
@@ -19231,7 +19231,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R27")
 					(unit 1)
 				)
@@ -19451,7 +19451,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C15")
 					(unit 1)
 				)
@@ -19682,7 +19682,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R18")
 					(unit 1)
 				)
@@ -19913,7 +19913,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R22")
 					(unit 1)
 				)
@@ -20125,7 +20125,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D1")
 					(unit 1)
 				)
@@ -20203,8 +20203,246 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR071")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "passive_mosfet:IPG20N04S4L08ATMA1")
+		(at 128.27 146.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f42959b-1109-4dca-8113-00b2cb6bcca0")
+		(property "Reference" "Q5"
+			(at 130.81 143.51 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 130.81 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "passive_mosfet:IPG20N04S4L08ATMA1"
+			(at 128.27 161.29 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "${KIPRJMOD}/library/datasheet/IPG20N04S4L08ATMA1.pdf"
+			(at 128.27 163.83 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MOSFET ${TYPE} V_{ds} ${DRAIN-SOURCE BREAKDOWN VOLTAGE} I_{d} ${CONTINUOUS DRAIN CURRENT} V_{gs(th)} ${GATE THRESHOLD VOLTAGE} R_{ds(ON)} ${DRAIN-SOURCE ON-STATE RESISTANCE} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 128.27 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Infineon"
+			(at 128.27 166.37 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "IPG20N04S4L08ATMA1"
+			(at 128.27 168.91 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "N-Channel Enhancement Mode"
+			(at 128.27 171.45 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain-Source Breakdown Voltage" "40V"
+			(at 128.27 173.99 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Source Voltage" "16V"
+			(at 128.27 176.53 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Threshold Voltage" "1.2-2.2V"
+			(at 128.27 179.07 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain-Source On-State Resistance" "7.2-10.9mΩ"
+			(at 128.27 181.61 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Continuous Drain Current" "20A"
+			(at 128.27 184.15 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Minimum Temperature" "-55°C"
+			(at 128.27 186.69 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Maximum Temperature" "+175°C"
+			(at 128.27 189.23 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "8-PowerVDFN"
+			(at 128.27 191.77 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "AEC-Q101"
+			(at 128.27 194.31 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "N/A"
+			(at 128.27 196.85 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fb31adbd-58d3-4de4-a931-6cce4fbad855")
+		)
+		(pin "1"
+			(uuid "893dc084-31d7-4025-84f3-95b21613e473")
+		)
+		(pin "4"
+			(uuid "0a17bafa-c2fe-4a78-912a-36554b16ec92")
+		)
+		(pin "3"
+			(uuid "af621d69-30c2-4368-96d7-d58835cfbe9f")
+		)
+		(pin "[5,6]"
+			(uuid "b20d0ae0-b97c-40e0-bcdd-b6e83b056ca1")
+		)
+		(pin "[7,8]"
+			(uuid "9d148d45-3463-457b-8ff3-95d6cfcdae09")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -20434,7 +20672,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R38")
 					(unit 1)
 				)
@@ -20665,7 +20903,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R16")
 					(unit 1)
 				)
@@ -20749,7 +20987,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR060")
 					(unit 1)
 				)
@@ -20969,7 +21207,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C23")
 					(unit 1)
 				)
@@ -21053,7 +21291,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR040")
 					(unit 1)
 				)
@@ -21283,7 +21521,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R13")
 					(unit 1)
 				)
@@ -21514,9 +21752,247 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R33")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "passive_mosfet:IPG20N04S4L08ATMA1")
+		(at 167.64 146.05 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "58dd7711-6bf9-407d-89e8-7999cd45fb45")
+		(property "Reference" "Q5"
+			(at 170.18 143.51 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ""
+			(at 170.18 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "passive_mosfet:IPG20N04S4L08ATMA1"
+			(at 167.64 161.29 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "${KIPRJMOD}/library/datasheet/IPG20N04S4L08ATMA1.pdf"
+			(at 167.64 163.83 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MOSFET ${TYPE} V_{ds} ${DRAIN-SOURCE BREAKDOWN VOLTAGE} I_{d} ${CONTINUOUS DRAIN CURRENT} V_{gs(th)} ${GATE THRESHOLD VOLTAGE} R_{ds(ON)} ${DRAIN-SOURCE ON-STATE RESISTANCE} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 167.64 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Infineon"
+			(at 167.64 166.37 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "IPG20N04S4L08ATMA1"
+			(at 167.64 168.91 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "N-Channel Enhancement Mode"
+			(at 167.64 171.45 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain-Source Breakdown Voltage" "40V"
+			(at 167.64 173.99 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Source Voltage" "16V"
+			(at 167.64 176.53 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Threshold Voltage" "1.2-2.2V"
+			(at 167.64 179.07 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain-Source On-State Resistance" "7.2-10.9mΩ"
+			(at 167.64 181.61 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Continuous Drain Current" "20A"
+			(at 167.64 184.15 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Minimum Temperature" "-55°C"
+			(at 167.64 186.69 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Maximum Temperature" "+175°C"
+			(at 167.64 189.23 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "8-PowerVDFN"
+			(at 167.64 191.77 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "AEC-Q101"
+			(at 167.64 194.31 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "N/A"
+			(at 167.64 196.85 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "90313968-5d68-4c05-9378-a47c8531e11e")
+		)
+		(pin "1"
+			(uuid "81a41bf9-2c5f-4561-a4d9-34f3c96f11d9")
+		)
+		(pin "4"
+			(uuid "ce1561ea-b445-4bb3-a5fb-57c61402bef0")
+		)
+		(pin "3"
+			(uuid "077849ff-6b8f-4bf5-880f-79887d764ef8")
+		)
+		(pin "[5,6]"
+			(uuid "7be818f5-3e38-4094-bd1f-d4958660098a")
+		)
+		(pin "[7,8]"
+			(uuid "118d9204-ace5-4f84-8b09-3e64d5d1d540")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
+					(reference "Q5")
+					(unit 2)
 				)
 			)
 		)
@@ -21745,7 +22221,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R21")
 					(unit 1)
 				)
@@ -21976,7 +22452,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R10")
 					(unit 1)
 				)
@@ -22207,7 +22683,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R44")
 					(unit 1)
 				)
@@ -22439,7 +22915,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R42")
 					(unit 1)
 				)
@@ -22659,7 +23135,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C20")
 					(unit 1)
 				)
@@ -22880,7 +23356,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C43")
 					(unit 1)
 				)
@@ -23119,7 +23595,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "L2")
 					(unit 1)
 				)
@@ -23351,7 +23827,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R39")
 					(unit 1)
 				)
@@ -23435,252 +23911,8 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "passive_mosfet:IPG20N04S4L08ATMA1")
-		(at 128.27 146.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e12e08b-7366-438e-b0ae-e6c43ac664d7")
-		(property "Reference" "Q5"
-			(at 130.81 143.51 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" ""
-			(at 130.81 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "passive_mosfet:IPG20N04S4L08ATMA1"
-			(at 128.27 161.29 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "${KIPRJMOD}/library/datasheet/IPG20N04S4L08ATMA1.pdf"
-			(at 128.27 163.83 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "MOSFET ${TYPE} V_{ds} ${DRAIN-SOURCE BREAKDOWN VOLTAGE} I_{d} ${CONTINUOUS DRAIN CURRENT} V_{gs(th)} ${GATE THRESHOLD VOLTAGE} R_{ds(ON)} ${DRAIN-SOURCE ON-STATE RESISTANCE} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 128.27 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Infineon"
-			(at 128.27 166.37 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "IPG20N04S4L08ATMA1"
-			(at 128.27 168.91 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "N-Channel Enhancement Mode"
-			(at 128.27 171.45 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drain-Source Breakdown Voltage" "40V"
-			(at 128.27 173.99 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate Source Voltage" "16V"
-			(at 128.27 176.53 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate Threshold Voltage" "1.2-2.2V"
-			(at 128.27 179.07 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drain-Source On-State Resistance" "7.2-10.9mΩ"
-			(at 128.27 181.61 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Continuous Drain Current" "20A"
-			(at 128.27 184.15 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Minimum Temperature" "-55°C"
-			(at 128.27 186.69 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Maximum Temperature" "+175°C"
-			(at 128.27 189.23 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "8-PowerVDFN"
-			(at 128.27 191.77 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Ratings" "AEC-Q101"
-			(at 128.27 194.31 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mass" "N/A"
-			(at 128.27 196.85 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "582f15f6-58eb-4d48-ac36-90893a782a85")
-		)
-		(pin "3"
-			(uuid "8c6bc39f-9c82-4e40-b906-6c1608fa12ce")
-		)
-		(pin "2"
-			(uuid "c59e6821-6c47-4e00-8c79-009ea644776d")
-		)
-		(pin "[7,8]"
-			(uuid "52e831f6-d3a1-4310-a60d-dd83d06ade80")
-		)
-		(pin "4"
-			(uuid "ce689d39-b747-4252-9f06-5e7b1977ff09")
-		)
-		(pin "[5,6]"
-			(uuid "b8d8c3a2-a807-4c36-b4e8-7b8265c4f1cc")
-		)
-		(instances
-			(project "power"
-				(path "/470d5dfe-2496-4027-95ed-7f779a18db59"
-					(reference "Q5")
-					(unit 1)
-				)
-			)
-			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
-					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -23907,7 +24139,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R23")
 					(unit 1)
 				)
@@ -24190,7 +24422,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "U4")
 					(unit 1)
 				)
@@ -24421,7 +24653,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R17")
 					(unit 1)
 				)
@@ -24653,7 +24885,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R40")
 					(unit 1)
 				)
@@ -24873,7 +25105,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C18")
 					(unit 1)
 				)
@@ -25101,7 +25333,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R4")
 					(unit 1)
 				)
@@ -25332,7 +25564,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R24")
 					(unit 1)
 				)
@@ -25552,7 +25784,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C24")
 					(unit 1)
 				)
@@ -25783,7 +26015,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R11")
 					(unit 1)
 				)
@@ -25991,7 +26223,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D3")
 					(unit 1)
 				)
@@ -26221,7 +26453,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J7")
 					(unit 1)
 				)
@@ -26451,7 +26683,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J4")
 					(unit 1)
 				)
@@ -26535,7 +26767,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR010")
 					(unit 1)
 				)
@@ -26763,7 +26995,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R9")
 					(unit 1)
 				)
@@ -26847,7 +27079,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR039")
 					(unit 1)
 				)
@@ -27067,7 +27299,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "U2")
 					(unit 1)
 				)
@@ -27297,7 +27529,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J6")
 					(unit 1)
 				)
@@ -27527,7 +27759,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R14")
 					(unit 1)
 				)
@@ -27611,7 +27843,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR029")
 					(unit 1)
 				)
@@ -27819,7 +28051,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D4")
 					(unit 1)
 				)
@@ -28045,7 +28277,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "Q7")
 					(unit 1)
 				)
@@ -28276,7 +28508,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R5")
 					(unit 1)
 				)
@@ -28360,7 +28592,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR026")
 					(unit 1)
 				)
@@ -28591,7 +28823,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R2")
 					(unit 1)
 				)
@@ -28675,7 +28907,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR021")
 					(unit 1)
 				)
@@ -28895,7 +29127,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C19")
 					(unit 1)
 				)
@@ -29126,7 +29358,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R32")
 					(unit 1)
 				)
@@ -29335,7 +29567,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D7")
 					(unit 1)
 				)
@@ -29419,7 +29651,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR028")
 					(unit 1)
 				)
@@ -29650,7 +29882,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R37")
 					(unit 1)
 				)
@@ -29858,7 +30090,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "D5")
 					(unit 1)
 				)
@@ -29942,7 +30174,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR059")
 					(unit 1)
 				)
@@ -30162,7 +30394,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C17")
 					(unit 1)
 				)
@@ -30445,7 +30677,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "U3")
 					(unit 1)
 				)
@@ -30673,7 +30905,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R7")
 					(unit 1)
 				)
@@ -30904,7 +31136,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R35")
 					(unit 1)
 				)
@@ -31135,7 +31367,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R36")
 					(unit 1)
 				)
@@ -31219,7 +31451,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR038")
 					(unit 1)
 				)
@@ -31449,7 +31681,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J5")
 					(unit 1)
 				)
@@ -31533,7 +31765,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR025")
 					(unit 1)
 				)
@@ -31777,7 +32009,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "Q4")
 					(unit 1)
 				)
@@ -32008,7 +32240,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J1")
 					(unit 1)
 				)
@@ -32239,7 +32471,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R28")
 					(unit 1)
 				)
@@ -32323,7 +32555,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR037")
 					(unit 1)
 				)
@@ -32551,7 +32783,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R8")
 					(unit 1)
 				)
@@ -32782,7 +33014,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R19")
 					(unit 1)
 				)
@@ -32866,7 +33098,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR024")
 					(unit 1)
 				)
@@ -33097,7 +33329,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R31")
 					(unit 1)
 				)
@@ -33336,253 +33568,9 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "L1")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "passive_mosfet:IPG20N04S4L08ATMA1")
-		(at 167.64 146.05 0)
-		(unit 2)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f67a1348-a29a-49f2-b3fa-7e48cc68c291")
-		(property "Reference" "Q5"
-			(at 170.18 143.51 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" ""
-			(at 170.18 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "passive_mosfet:IPG20N04S4L08ATMA1"
-			(at 167.64 161.29 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "${KIPRJMOD}/library/datasheet/IPG20N04S4L08ATMA1.pdf"
-			(at 167.64 163.83 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "MOSFET ${TYPE} V_{ds} ${DRAIN-SOURCE BREAKDOWN VOLTAGE} I_{d} ${CONTINUOUS DRAIN CURRENT} V_{gs(th)} ${GATE THRESHOLD VOLTAGE} R_{ds(ON)} ${DRAIN-SOURCE ON-STATE RESISTANCE} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 167.64 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Infineon"
-			(at 167.64 166.37 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "IPG20N04S4L08ATMA1"
-			(at 167.64 168.91 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "N-Channel Enhancement Mode"
-			(at 167.64 171.45 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drain-Source Breakdown Voltage" "40V"
-			(at 167.64 173.99 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate Source Voltage" "16V"
-			(at 167.64 176.53 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate Threshold Voltage" "1.2-2.2V"
-			(at 167.64 179.07 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drain-Source On-State Resistance" "7.2-10.9mΩ"
-			(at 167.64 181.61 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Continuous Drain Current" "20A"
-			(at 167.64 184.15 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Minimum Temperature" "-55°C"
-			(at 167.64 186.69 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Maximum Temperature" "+175°C"
-			(at 167.64 189.23 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "8-PowerVDFN"
-			(at 167.64 191.77 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Ratings" "AEC-Q101"
-			(at 167.64 194.31 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mass" "N/A"
-			(at 167.64 196.85 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "be2fc8cc-fbc3-44a4-8d88-246f23fa586f")
-		)
-		(pin "3"
-			(uuid "952547ba-e1ad-4e99-90f4-bb18a1ad4fb8")
-		)
-		(pin "2"
-			(uuid "adef5cad-cbe3-4df5-b3b4-56728eb49816")
-		)
-		(pin "[7,8]"
-			(uuid "837ff247-dc02-4267-9e0b-d56e6646f852")
-		)
-		(pin "4"
-			(uuid "2c903386-3df5-4e72-8099-7fd559eb6188")
-		)
-		(pin "[5,6]"
-			(uuid "14517ad0-4666-48fe-b74f-175bf0c4dae9")
-		)
-		(instances
-			(project "power"
-				(path "/470d5dfe-2496-4027-95ed-7f779a18db59"
-					(reference "Q5")
-					(unit 2)
-				)
-			)
-			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
-					(reference "Q5")
-					(unit 2)
 				)
 			)
 		)
@@ -33664,7 +33652,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR023")
 					(unit 1)
 				)
@@ -33908,7 +33896,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "Q4")
 					(unit 2)
 				)
@@ -34136,7 +34124,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "J2")
 					(unit 1)
 				)
@@ -34356,7 +34344,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "C14")
 					(unit 1)
 				)
@@ -34587,7 +34575,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R3")
 					(unit 1)
 				)
@@ -34819,7 +34807,7 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "R41")
 					(unit 1)
 				)
@@ -34903,16 +34891,11 @@
 				)
 			)
 			(project "flight_computer"
-				(path "/6d260a24-da62-4b21-aa3c-1e413f71646f"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2"
 					(reference "#PWR04")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "2")
 		)
 	)
 )

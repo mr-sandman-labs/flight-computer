@@ -14,7 +14,7 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Q"
+			(property "Reference" "Q6"
 				(at 2.54 1.27 0)
 				(show_name no)
 				(do_not_autoplace yes)
@@ -3657,7 +3657,7 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Q"
+			(property "Reference" "Q6"
 				(at 2.54 1.27 0)
 				(show_name no)
 				(do_not_autoplace yes)
@@ -5161,15 +5161,6 @@
 		(uuid "8b1575ff-c943-44fb-92ec-27a57fba0d4d")
 	)
 	(bus_entry
-		(at 57.15 54.61)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2240483e-2698-418a-b308-522f914e9a39")
-	)
-	(bus_entry
 		(at 17.78 31.75)
 		(size 2.54 2.54)
 		(stroke
@@ -6098,7 +6089,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR055")
 					(unit 1)
 				)
@@ -6334,7 +6325,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "L3")
 					(unit 1)
 				)
@@ -6545,7 +6536,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "C33")
 					(unit 1)
 				)
@@ -6624,7 +6615,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR057")
 					(unit 1)
 				)
@@ -6829,7 +6820,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "U10")
 					(unit 1)
 				)
@@ -7054,7 +7045,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "R53")
 					(unit 1)
 				)
@@ -7132,7 +7123,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR058")
 					(unit 1)
 				)
@@ -7210,7 +7201,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR063")
 					(unit 1)
 				)
@@ -7412,7 +7403,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "U11")
 					(unit 1)
 				)
@@ -7490,7 +7481,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR053")
 					(unit 1)
 				)
@@ -7704,7 +7695,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "C32")
 					(unit 1)
 				)
@@ -7781,7 +7772,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR062")
 					(unit 1)
 				)
@@ -8081,7 +8072,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "U9")
 					(unit 1)
 				)
@@ -8158,7 +8149,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR056")
 					(unit 1)
 				)
@@ -8383,7 +8374,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "R52")
 					(unit 1)
 				)
@@ -8608,7 +8599,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "R50")
 					(unit 1)
 				)
@@ -8823,7 +8814,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "U12")
 					(unit 1)
 				)
@@ -8901,8 +8892,246 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "SI1016CX-T1-GE3_1")
+		(lib_id "passive_mosfet:SI1016CX-T1-GE3")
+		(at 59.69 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f4a04c4-950d-49f2-aa14-47e6f10a8772")
+		(property "Reference" "Q6"
+			(at 62.23 44.45 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "${MANUFACTURER PART NUMBER}"
+			(at 62.23 46.99 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "passive_mosfet:SI1016CX-T1-GE3"
+			(at 59.69 60.96 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "file://${KIPRJMOD}/library/datasheet/SI1016CX.pdf"
+			(at 59.69 63.5 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MOSFET ${TYPE} V_{ds} ${DRAIN-SOURCE BREAKDOWN VOLTAGE} I_{d} ${CONTINUOUS DRAIN CURRENT} V_{gs} ${GATE-SOURCE VOLTAGE} V_{gs(th)} ${GATE THRESHOLD VOLTAGE} R_{ds(ON)} ${DRAIN-SOURCE ON-STATE RESISTANCE} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 59.69 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Siliconix"
+			(at 59.69 66.04 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SI1016CX-T1-GE3"
+			(at 59.69 68.58 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "N/P-Channel"
+			(at 59.69 71.12 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain-Source Breakdown Voltage" "±20V"
+			(at 59.69 73.66 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate-Source Voltage" "±8V"
+			(at 59.69 76.2 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Gate Threshold Voltage" "±0.4-1V"
+			(at 59.69 78.74 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drain-Source On-State Resistance" "396-760mΩ/630-2400mΩ"
+			(at 59.69 81.28 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Continuous Drain Current" "±0.6A"
+			(at 59.69 83.82 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Minimum Temperature" "-55°C"
+			(at 59.69 86.36 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Maximum Temperature" "+150°C"
+			(at 59.69 88.9 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT-563F"
+			(at 59.69 91.44 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "N/A"
+			(at 59.69 93.98 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "N/A"
+			(at 59.69 96.52 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c6a28213-b109-4aa9-b12a-43aaee1ad64c")
+		)
+		(pin "1"
+			(uuid "9e63332f-9263-4237-8804-5f519b621240")
+		)
+		(pin "6"
+			(uuid "e13d22e4-0e31-4c49-94ce-a9c0241ba034")
+		)
+		(pin "3"
+			(uuid "5323803b-ba7e-490c-94ca-ced71204bdad")
+		)
+		(pin "5"
+			(uuid "a3283cf1-df05-494d-b787-105bba5e3bdc")
+		)
+		(pin "4"
+			(uuid "2f99b315-2389-4dcb-9886-714a3d5a839e")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -8978,7 +9207,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR064")
 					(unit 1)
 				)
@@ -9202,7 +9431,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "R51")
 					(unit 1)
 				)
@@ -9436,244 +9665,8 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "passive_mosfet:SI1016CX-T1-GE3")
-		(at 59.69 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ae6ea6ca-f04e-467d-a2a9-6a9be7d1f88d")
-		(property "Reference" "Q6"
-			(at 62.23 48.26 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "${MANUFACTURER PART NUMBER}"
-			(at 62.23 50.8 0)
-			(show_name no)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "passive_mosfet:SI1016CX-T1-GE3"
-			(at 59.69 60.96 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "file://${KIPRJMOD}/library/datasheet/SI1016CX.pdf"
-			(at 59.69 63.5 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "MOSFET ${TYPE} V_{ds} ${DRAIN-SOURCE BREAKDOWN VOLTAGE} I_{d} ${CONTINUOUS DRAIN CURRENT} V_{gs} ${GATE-SOURCE VOLTAGE} V_{gs(th)} ${GATE THRESHOLD VOLTAGE} R_{ds(ON)} ${DRAIN-SOURCE ON-STATE RESISTANCE} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 59.69 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay Siliconix"
-			(at 59.69 66.04 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "SI1016CX-T1-GE3"
-			(at 59.69 68.58 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Type" "N/P-Channel"
-			(at 59.69 71.12 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drain-Source Breakdown Voltage" "±20V"
-			(at 59.69 73.66 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate-Source Voltage" "±8V"
-			(at 59.69 76.2 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Gate Threshold Voltage" "±0.4-1V"
-			(at 59.69 78.74 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drain-Source On-State Resistance" "396-760mΩ/630-2400mΩ"
-			(at 59.69 81.28 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Continuous Drain Current" "±0.6A"
-			(at 59.69 83.82 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Minimum Temperature" "-55°C"
-			(at 59.69 86.36 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Maximum Temperature" "+150°C"
-			(at 59.69 88.9 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Package" "SOT-563F"
-			(at 59.69 91.44 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Ratings" "N/A"
-			(at 59.69 93.98 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mass" "N/A"
-			(at 59.69 96.52 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "6052ce73-f1fb-4a6f-be78-1c20836e1e39")
-		)
-		(pin "1"
-			(uuid "c8d1e2ac-bceb-4f9f-b6cc-cf45429fc7e8")
-		)
-		(pin "5"
-			(uuid "a0563929-61f2-46ca-bceb-c27639b74086")
-		)
-		(pin "3"
-			(uuid "56f27e79-507e-4472-a2d6-b5d868d53303")
-		)
-		(pin "6"
-			(uuid "25e0a19c-cfde-47e9-a155-aaf0dd0b77da")
-		)
-		(pin "4"
-			(uuid "70ce6b23-810c-43bb-9232-3d6accc1f751")
-		)
-		(instances
-			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
-					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -9750,7 +9743,7 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR052")
 					(unit 1)
 				)
@@ -9758,7 +9751,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SI1016CX-T1-GE3_1")
 		(lib_id "passive_mosfet:SI1016CX-T1-GE3")
 		(at 68.58 39.37 0)
 		(unit 2)
@@ -9769,7 +9761,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e53655f1-c9f4-42b4-b824-e7863c8c5cb5")
+		(uuid "f508e906-26ef-4b32-877a-23e8fe00557b")
 		(property "Reference" "Q6"
 			(at 71.12 38.1 0)
 			(show_name no)
@@ -9968,27 +9960,27 @@
 				)
 			)
 		)
-		(pin "6"
-			(uuid "9abf0df8-b49d-437d-b947-eab4656b22d4")
-		)
-		(pin "3"
-			(uuid "639352c2-6669-426a-b279-fb77a0597ee5")
+		(pin "2"
+			(uuid "c6a28213-b109-4aa9-b12a-43aaee1ad64c")
 		)
 		(pin "1"
-			(uuid "a0563929-61f2-46ca-bceb-c27639b74087")
+			(uuid "9e63332f-9263-4237-8804-5f519b621240")
 		)
-		(pin "2"
-			(uuid "56f27e79-507e-4472-a2d6-b5d868d53304")
+		(pin "6"
+			(uuid "e13d22e4-0e31-4c49-94ce-a9c0241ba034")
 		)
-		(pin "4"
-			(uuid "67a4b053-3852-4f8f-bde2-6aaac3774823")
+		(pin "3"
+			(uuid "5323803b-ba7e-490c-94ca-ced71204bdad")
 		)
 		(pin "5"
-			(uuid "425ecf3a-db4a-4c74-be37-b737f25fbdcf")
+			(uuid "a3283cf1-df05-494d-b787-105bba5e3bdc")
+		)
+		(pin "4"
+			(uuid "2f99b315-2389-4dcb-9886-714a3d5a839e")
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "Q6")
 					(unit 2)
 				)
@@ -10066,16 +10058,11 @@
 		)
 		(instances
 			(project "flight_computer"
-				(path "/0412fd54-eef1-4287-8934-67a7907d0f6a"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/d760e67c-83f4-4479-8ada-6600f8f10d6e"
 					(reference "#PWR061")
 					(unit 1)
 				)
 			)
-		)
-	)
-	(sheet_instances
-		(path "/"
-			(page "5")
 		)
 	)
 )

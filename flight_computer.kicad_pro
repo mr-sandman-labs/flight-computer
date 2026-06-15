@@ -751,29 +751,9 @@
         "filename": "flight_computer.kicad_sch",
         "name": "root",
         "uuid": "aee43b18-7cf7-43bb-b265-763f492d287e"
-      },
-      {
-        "filename": "mcu.kicad_sch",
-        "name": "mcu",
-        "uuid": "ce202f27-8aa9-4c2a-870e-1468bb82ebf0"
-      },
-      {
-        "filename": "sensors.kicad_sch",
-        "name": "sensors",
-        "uuid": "9067cac0-95f7-459d-9bf6-4966f43802fe"
-      },
-      {
-        "filename": "rf.kicad_sch",
-        "name": "rf",
-        "uuid": "0412fd54-eef1-4287-8934-67a7907d0f6a"
-      },
-      {
-        "filename": "power.kicad_sch",
-        "name": "power",
-        "uuid": "6d260a24-da62-4b21-aa3c-1e413f71646f"
       }
     ],
-    "used_designators": "#PWR73-77,R54-58",
+    "used_designators": "L3-5,Q1-3,Q6-7,U1,U5-21,J8-19,D8-21,C1-3,C5-13,C16,C21-22,C26-42,C44-55,Y1,#PWR1-3,#PWR7,#PWR9,#PWR12-14,#PWR19-20,#PWR30,#PWR34-36,#PWR41-45,#PWR47-48,#PWR52-58,#PWR61-64,#PWR73-77,R1,R6,R25-26,R34,R46-97",
     "variants": []
   },
   "sheets": [
@@ -782,20 +762,20 @@
       "root"
     ],
     [
-      "6d260a24-da62-4b21-aa3c-1e413f71646f",
-      "power"
+      "708d0e6c-f01c-4c60-85a8-32cd5d4b3fb2",
+      "Power"
     ],
     [
-      "ce202f27-8aa9-4c2a-870e-1468bb82ebf0",
-      "mcu"
+      "9f226850-39ae-448a-a04e-0b533bef6f96",
+      "Microcontroller"
     ],
     [
-      "9067cac0-95f7-459d-9bf6-4966f43802fe",
-      "sensors"
+      "b67c8283-c961-4820-a6b0-c26777253357",
+      "Sensors"
     ],
     [
-      "0412fd54-eef1-4287-8934-67a7907d0f6a",
-      "rf"
+      "d760e67c-83f4-4479-8ada-6600f8f10d6e",
+      "RF"
     ]
   ],
   "text_variables": {
