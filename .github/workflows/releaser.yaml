@@ -44,6 +44,7 @@ jobs:
       - name: Generate schematic PDF
         run: |
           kicad-cli sch export pdf "$SCH_FILE" \
+          --theme wLight \
           --output "$OUTPUT_DIR"/schematic.pdf
 
       - name: Generate PCB PDF
