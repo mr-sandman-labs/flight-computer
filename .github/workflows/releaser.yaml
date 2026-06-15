@@ -44,7 +44,7 @@ jobs:
       - name: Generate schematic PDF
         run: |
           kicad-cli sch export pdf "$SCH_FILE" \
-          --black-and-white
+          --black-and-white \
           --output "$OUTPUT_DIR"/schematic.pdf
 
       - name: Generate PCB PDF
