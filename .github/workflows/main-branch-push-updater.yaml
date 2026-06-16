@@ -1,4 +1,4 @@
-name: Update board images
+name: Main branch push updater
 env:
   IMAGE_WIDTH: 2000
   IMAGE_HEIGHT: 2000
