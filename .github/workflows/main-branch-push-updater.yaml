@@ -39,6 +39,7 @@ jobs:
           sudo apt update
           sudo apt install kicad -y --no-install-recommends
           sudo apt install -y fonts-open-sans xvfb
+          sudo apt install -y at-spi2-core
           pip3 install InteractiveHtmlBom
 
       - name: Generate schematic PDF
