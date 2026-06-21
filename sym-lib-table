@@ -17,4 +17,5 @@
 	(lib (name "ic_amplifier") (type "KiCad") (uri "${KIPRJMOD}/library/symbol/ic/amplifier.kicad_symdir") (options "") (descr ""))
 	(lib (name "ic_buffer") (type "KiCad") (uri "${KIPRJMOD}/library/symbol/ic/buffer.kicad_symdir") (options "") (descr ""))
 	(lib (name "ic_filter") (type "KiCad") (uri "${KIPRJMOD}/library/symbol/ic/filter.kicad_symdir") (options "") (descr ""))
+	(lib (name "ic_rf") (type "KiCad") (uri "${KIPRJMOD}/library/symbol/ic/rf.kicad_symdir") (options "") (descr ""))
 )

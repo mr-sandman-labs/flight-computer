@@ -17,4 +17,5 @@
 	(lib (name "ic_amplifier") (type "KiCad") (uri "${KIPRJMOD}/library/footprint/ic/amplifier.pretty") (options "") (descr ""))
 	(lib (name "ic_buffer") (type "KiCad") (uri "${KIPRJMOD}/library/footprint/ic/buffer.pretty") (options "") (descr ""))
 	(lib (name "ic_filter") (type "KiCad") (uri "${KIPRJMOD}/library/footprint/ic/filter.pretty") (options "") (descr ""))
+	(lib (name "ic_rf") (type "KiCad") (uri "${KIPRJMOD}/library/footprint/ic/rf.pretty") (options "") (descr ""))
 )
