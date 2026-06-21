@@ -338,6 +338,101 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "miscellaneous:M3"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "MH"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "miscellaneous:M3"
+				(at 0 -3.81 0)
+				(show_name no)
+				(do_not_autoplace yes)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "M3_1_1"
+				(circle
+					(center 0 0)
+					(radius 1.905)
+					(stroke
+						(width 1.27)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "MH"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "passive_capacitor:C1812X104KDRACAUTO"
 			(pin_numbers
 				(hide yes)
@@ -892,6 +987,18 @@
 		)
 	)
 	(rectangle
+		(start 135.89 171.45)
+		(end 157.48 196.85)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "1d3bd053-265a-401f-937a-d77e0b20b9d8")
+	)
+	(rectangle
 		(start 160.02 171.45)
 		(end 182.88 196.85)
 		(stroke
@@ -902,6 +1009,19 @@
 			(type none)
 		)
 		(uuid "8e547712-47cc-48e4-9902-7931743f947c")
+	)
+	(text "Mounting points"
+		(exclude_from_sim no)
+		(at 137.16 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "2888317f-5904-440b-b5c3-e1553dc2433c")
 	)
 	(text "Chassis bonding"
 		(exclude_from_sim no)
@@ -917,6 +1037,12 @@
 		(uuid "72ed2f38-e3f8-4b33-901e-2ad82c27ebb0")
 	)
 	(junction
+		(at 146.05 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6309aa46-54a1-4808-9632-c348812fa84e")
+	)
+	(junction
 		(at 167.64 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -928,6 +1054,22 @@
 		(color 0 0 0 0)
 		(uuid "c4c21468-afb9-4fc8-ae94-4a3da2a34cf7")
 	)
+	(junction
+		(at 146.05 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6490914-729a-410f-8746-021a0460f0eb")
+	)
+	(wire
+		(pts
+			(xy 144.78 181.61) (xy 146.05 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00d6fa5e-dd08-4dc9-9fe8-50c28a2a4c75")
+	)
 	(wire
 		(pts
 			(xy 167.64 189.23) (xy 167.64 180.34)
@@ -937,6 +1079,26 @@
 			(type default)
 		)
 		(uuid "053e9002-8779-42e8-954d-075062fcf189")
+	)
+	(wire
+		(pts
+			(xy 146.05 181.61) (xy 146.05 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2982913e-950e-4b48-924d-6beabaa34a8c")
+	)
+	(wire
+		(pts
+			(xy 146.05 189.23) (xy 147.32 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c9a46d7-7ef5-4378-bfff-52381bc9c2d7")
 	)
 	(wire
 		(pts
@@ -957,6 +1119,26 @@
 			(type default)
 		)
 		(uuid "4b89a70d-6b9f-4165-a914-53add05be005")
+	)
+	(wire
+		(pts
+			(xy 144.78 189.23) (xy 146.05 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "527de825-6d22-4dcb-b133-8430fd7f6372")
+	)
+	(wire
+		(pts
+			(xy 146.05 181.61) (xy 147.32 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d005f69-8b3f-43a9-8b0b-e82c251b6a5f")
 	)
 	(wire
 		(pts
@@ -1007,6 +1189,92 @@
 			(type default)
 		)
 		(uuid "c9442fb7-09d7-4aa0-ae76-016af1f41535")
+	)
+	(wire
+		(pts
+			(xy 146.05 189.23) (xy 146.05 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8fcaa36-8b3e-464e-86c9-4b2da456826d")
+	)
+	(symbol
+		(lib_id "miscellaneous:M3")
+		(at 152.4 189.23 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "117a4032-4e70-418c-9361-b6da9d929f1d")
+		(property "Reference" "MH4"
+			(at 152.4 185.42 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 152.4 189.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "miscellaneous:M3"
+			(at 152.4 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9bf10110-6ea8-4dbd-aaf0-016e931ae838")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e"
+					(reference "MH4")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "passive_resistor:CRCW06031M00FKEA")
@@ -1225,6 +1493,316 @@
 			(project "flight_computer"
 				(path "/aee43b18-7cf7-43bb-b265-763f492d287e"
 					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "miscellaneous:M3")
+		(at 139.7 181.61 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ba6c51c-2e1a-4e3a-8a1b-0141f3a8ee0f")
+		(property "Reference" "MH1"
+			(at 139.7 177.8 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 139.7 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "miscellaneous:M3"
+			(at 139.7 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 139.7 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d0a7ef63-45fd-4bed-a995-d8358408d08c")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e"
+					(reference "MH1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "miscellaneous:M3")
+		(at 139.7 189.23 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79420045-07e0-4492-aa22-73cedc031dfa")
+		(property "Reference" "MH2"
+			(at 139.7 185.42 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 139.7 189.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "miscellaneous:M3"
+			(at 139.7 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 139.7 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7c31cd7f-c2fd-4d82-94d6-af4dc25425a9")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e"
+					(reference "MH2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "miscellaneous:M3")
+		(at 152.4 181.61 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "80fabb19-30a2-4907-8a4f-15c433254f33")
+		(property "Reference" "MH3"
+			(at 152.4 177.8 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 152.4 181.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "miscellaneous:M3"
+			(at 152.4 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 181.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "390a0a31-2887-4b2f-83da-7697d6b9d669")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e"
+					(reference "MH3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "miscellaneous:CHASSIS")
+		(at 146.05 193.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d781fde-e9b8-450e-b7c6-3358ee9d9e57")
+		(property "Reference" "#PWR078"
+			(at 146.05 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CHASSIS"
+			(at 146.05 194.31 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ee2d2e0b-d379-4d41-91bc-8a6c77a56181")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e"
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)

@@ -9961,22 +9961,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "c6a28213-b109-4aa9-b12a-43aaee1ad64c")
+			(uuid "c6a28213-b109-4aa9-b12a-43aaee1ad64d")
 		)
 		(pin "1"
-			(uuid "9e63332f-9263-4237-8804-5f519b621240")
+			(uuid "9e63332f-9263-4237-8804-5f519b621241")
 		)
 		(pin "6"
-			(uuid "e13d22e4-0e31-4c49-94ce-a9c0241ba034")
+			(uuid "e13d22e4-0e31-4c49-94ce-a9c0241ba035")
 		)
 		(pin "3"
-			(uuid "5323803b-ba7e-490c-94ca-ced71204bdad")
+			(uuid "5323803b-ba7e-490c-94ca-ced71204bdae")
 		)
 		(pin "5"
-			(uuid "a3283cf1-df05-494d-b787-105bba5e3bdc")
+			(uuid "a3283cf1-df05-494d-b787-105bba5e3bdd")
 		)
 		(pin "4"
-			(uuid "2f99b315-2389-4dcb-9886-714a3d5a839e")
+			(uuid "2f99b315-2389-4dcb-9886-714a3d5a839f")
 		)
 		(instances
 			(project "flight_computer"
