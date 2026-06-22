@@ -8764,10 +8764,6 @@
 		(uuid "1298b186-5080-4395-b9e6-e4c47d807f79")
 	)
 	(no_connect
-		(at 88.9 105.41)
-		(uuid "15c11129-261d-4fa8-a36c-23101a312a74")
-	)
-	(no_connect
 		(at 88.9 80.01)
 		(uuid "16779fa3-a312-4181-8092-f7690f7d874c")
 	)
@@ -8804,10 +8800,6 @@
 		(uuid "38cb751c-e2eb-479b-aa3b-166162c653b3")
 	)
 	(no_connect
-		(at 88.9 110.49)
-		(uuid "38f1ee39-759b-4f97-924d-da3d99b4f64a")
-	)
-	(no_connect
 		(at 88.9 36.83)
 		(uuid "3a022a55-5642-4ac5-bccc-b7d6d52fa7a7")
 	)
@@ -8836,10 +8828,6 @@
 		(uuid "4c97ee0c-d243-4b25-97e6-18963a7ce305")
 	)
 	(no_connect
-		(at 88.9 115.57)
-		(uuid "4dc5dd91-3f05-47f1-a513-f8ede2a81c96")
-	)
-	(no_connect
 		(at 88.9 62.23)
 		(uuid "4f53798f-2992-4a0d-8d58-5041ceb3d396")
 	)
@@ -8856,10 +8844,6 @@
 		(uuid "52352ba0-9d16-4e6b-be1a-3366f5852723")
 	)
 	(no_connect
-		(at 88.9 107.95)
-		(uuid "5fdbca9a-5a3a-4572-b295-a28278419d64")
-	)
-	(no_connect
 		(at 88.9 24.13)
 		(uuid "62517fbf-2dc4-441f-8808-5ea2c5e0e6b4")
 	)
@@ -8870,10 +8854,6 @@
 	(no_connect
 		(at 40.64 110.49)
 		(uuid "6985951e-4b7d-4955-8995-d09f640a1c02")
-	)
-	(no_connect
-		(at 88.9 118.11)
-		(uuid "733109d8-a3b3-4ff3-9cdc-73aaebb68e53")
 	)
 	(no_connect
 		(at 224.79 154.94)
@@ -8910,10 +8890,6 @@
 	(no_connect
 		(at 175.26 57.15)
 		(uuid "baeac76c-abf0-4cb6-8764-a5efbcc1e490")
-	)
-	(no_connect
-		(at 88.9 113.03)
-		(uuid "be985fce-7fec-4360-bc8a-61dc468d9d33")
 	)
 	(no_connect
 		(at 40.64 113.03)
@@ -9610,7 +9586,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 124.46) (xy 106.68 124.46)
+			(xy 118.11 90.17) (xy 119.38 90.17)
 		)
 		(stroke
 			(width 0)
@@ -9620,7 +9596,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 96.52) (xy 105.41 96.52)
+			(xy 106.68 104.14) (xy 105.41 104.14)
 		)
 		(stroke
 			(width 0)
@@ -10030,7 +10006,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 74.93) (xy 123.19 76.2)
+			(xy 118.11 96.52) (xy 118.11 97.79)
 		)
 		(stroke
 			(width 0)
@@ -10210,7 +10186,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 82.55) (xy 123.19 81.28)
+			(xy 118.11 104.14) (xy 118.11 102.87)
 		)
 		(stroke
 			(width 0)
@@ -10250,7 +10226,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 110.49) (xy 105.41 109.22)
+			(xy 105.41 118.11) (xy 105.41 116.84)
 		)
 		(stroke
 			(width 0)
@@ -10280,7 +10256,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 82.55) (xy 123.19 82.55)
+			(xy 119.38 104.14) (xy 118.11 104.14)
 		)
 		(stroke
 			(width 0)
@@ -10400,7 +10376,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 116.84) (xy 105.41 118.11)
+			(xy 118.11 82.55) (xy 118.11 83.82)
 		)
 		(stroke
 			(width 0)
@@ -10510,7 +10486,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 102.87) (xy 105.41 104.14)
+			(xy 105.41 110.49) (xy 105.41 111.76)
 		)
 		(stroke
 			(width 0)
@@ -10527,6 +10503,16 @@
 			(type default)
 		)
 		(uuid "898205d0-5690-495d-bb79-329ee806d084")
+	)
+	(wire
+		(pts
+			(xy 118.11 118.11) (xy 118.11 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89a5bdca-55e5-4cf1-96b9-c89587ee40a5")
 	)
 	(wire
 		(pts
@@ -10548,6 +10534,16 @@
 		)
 		(uuid "8d3ef620-ee2a-4ce9-a400-0ed6f567cf12")
 	)
+	(wire
+		(pts
+			(xy 119.38 118.11) (xy 118.11 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ddbcd7d-3cee-4e95-a1d3-e3d2d28c253b")
+	)
 	(bus
 		(pts
 			(xy 232.41 144.78) (xy 232.41 147.32)
@@ -10560,7 +10556,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 96.52) (xy 105.41 95.25)
+			(xy 105.41 104.14) (xy 105.41 102.87)
 		)
 		(stroke
 			(width 0)
@@ -10570,7 +10566,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 82.55) (xy 105.41 81.28)
+			(xy 105.41 90.17) (xy 105.41 88.9)
 		)
 		(stroke
 			(width 0)
@@ -10590,7 +10586,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 123.19) (xy 105.41 124.46)
+			(xy 118.11 88.9) (xy 118.11 90.17)
 		)
 		(stroke
 			(width 0)
@@ -10950,7 +10946,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 88.9) (xy 105.41 90.17)
+			(xy 105.41 96.52) (xy 105.41 97.79)
 		)
 		(stroke
 			(width 0)
@@ -11110,7 +11106,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 110.49) (xy 105.41 110.49)
+			(xy 106.68 118.11) (xy 105.41 118.11)
 		)
 		(stroke
 			(width 0)
@@ -11177,6 +11173,16 @@
 			(type default)
 		)
 		(uuid "c51c75f5-008b-4c62-a26b-0801f689219a")
+	)
+	(wire
+		(pts
+			(xy 118.11 110.49) (xy 118.11 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c72afe3c-a90d-4071-a819-a3680d140bd1")
 	)
 	(wire
 		(pts
@@ -11400,7 +11406,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 82.55) (xy 105.41 82.55)
+			(xy 106.68 90.17) (xy 105.41 90.17)
 		)
 		(stroke
 			(width 0)
@@ -11670,7 +11676,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 74.93) (xy 105.41 76.2)
+			(xy 105.41 82.55) (xy 105.41 83.82)
 		)
 		(stroke
 			(width 0)
@@ -12742,9 +12748,33 @@
 			)
 		)
 	)
+	(global_label "~{POW_MON_CS}"
+		(shape passive)
+		(at 88.9 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "098e4e78-759f-4b4e-9569-1eeacf2f1be5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.9929 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "SHOCK_ACCEL_INT"
 		(shape passive)
-		(at 123.19 105.41 0)
+		(at 132.08 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12754,7 +12784,7 @@
 		)
 		(uuid "0a5e9101-944f-4de8-9527-3780f734a850")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 132.2861 105.41 0)
+			(at 141.1761 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12768,7 +12798,7 @@
 	)
 	(global_label "~{GNSS_RESET}"
 		(shape passive)
-		(at 122.7122 90.17 0)
+		(at 132.08 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12778,7 +12808,7 @@
 		)
 		(uuid "0fccce47-9b74-4bd6-9db2-391ee9b24b9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.3045 90.17 0)
+			(at 138.6723 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12840,7 +12870,7 @@
 	)
 	(global_label "~{GNSS_SAFEBOOT}"
 		(shape passive)
-		(at 122.7122 87.63 0)
+		(at 132.08 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12850,7 +12880,7 @@
 		)
 		(uuid "18e8b551-5e23-457c-8751-683efd5d6be3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.1929 87.63 0)
+			(at 140.5607 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12888,7 +12918,7 @@
 	)
 	(global_label "~{BAR_CS}"
 		(shape passive)
-		(at 106.68 82.55 0)
+		(at 106.68 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12898,7 +12928,7 @@
 		)
 		(uuid "3860e871-2820-4b01-a674-86aef67b9695")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.9669 82.55 0)
+			(at 110.9669 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12912,7 +12942,7 @@
 	)
 	(global_label "~{SHOCK_ACCEL_CS}"
 		(shape passive)
-		(at 124.46 82.55 0)
+		(at 119.38 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12922,7 +12952,7 @@
 		)
 		(uuid "3c79925f-73c3-4b8c-80f2-e609ddc6e7d0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.3439 82.55 0)
+			(at 128.2639 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12958,9 +12988,33 @@
 			)
 		)
 	)
+	(global_label "POW_MON_INT"
+		(shape passive)
+		(at 132.08 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "440eaddd-db49-4d64-b352-bd48c3b9f6af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.3851 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "~{MAG_CS}"
 		(shape passive)
-		(at 106.68 96.52 0)
+		(at 106.68 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12970,7 +13024,7 @@
 		)
 		(uuid "4fe61bcd-0219-4529-b7f5-7a8cd74c8c3c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.1555 96.52 0)
+			(at 111.1555 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13032,7 +13086,7 @@
 	)
 	(global_label "GYRO_INT"
 		(shape passive)
-		(at 123.4289 102.87 0)
+		(at 132.08 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13042,7 +13096,7 @@
 		)
 		(uuid "6537bbd5-ec57-40e5-9e29-cedb5b08a219")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.7109 102.87 0)
+			(at 137.362 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13056,7 +13110,7 @@
 	)
 	(global_label "MAG_INT"
 		(shape passive)
-		(at 123.19 100.33 0)
+		(at 132.08 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13066,7 +13120,7 @@
 		)
 		(uuid "71dc17c5-082d-4910-b220-59acc9371945")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.8777 100.33 0)
+			(at 136.7677 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13102,9 +13156,33 @@
 			)
 		)
 	)
+	(global_label "~{PREC_ACCEL_CS}"
+		(shape passive)
+		(at 88.9 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "739abcc7-fc75-40e9-9111-3a7136b9dd26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.0506 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "GNSS_TIMEPULSE"
 		(shape passive)
-		(at 122.7122 92.71 0)
+		(at 132.08 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13114,7 +13192,7 @@
 		)
 		(uuid "7421e8a7-ab49-468d-8866-b4df51385fd1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.3833 92.71 0)
+			(at 140.7511 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13235,6 +13313,30 @@
 		(uuid "8e82f016-0386-43c5-9e1a-f328c4806f45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 146.9984 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "~{GYRO_CS}"
+		(shape passive)
+		(at 88.9 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "9012c387-545a-48c6-89bc-1c1a2d233a5e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.9698 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13368,7 +13470,7 @@
 	)
 	(global_label "GNSS_INT"
 		(shape passive)
-		(at 122.7122 95.25 0)
+		(at 132.08 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13378,7 +13480,7 @@
 		)
 		(uuid "b7e53023-8b97-4dca-9813-422b6e2efd92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.89 95.25 0)
+			(at 137.2578 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13440,7 +13542,7 @@
 	)
 	(global_label "~{GYRO_CS}"
 		(shape passive)
-		(at 106.68 110.49 0)
+		(at 106.68 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13450,7 +13552,7 @@
 		)
 		(uuid "be9a6146-4fce-4d1b-b6f3-4c2f82ff3036")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.7498 110.49 0)
+			(at 111.7498 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13464,7 +13566,7 @@
 	)
 	(global_label "~{PREC_ACCEL_CS}"
 		(shape passive)
-		(at 106.68 124.46 0)
+		(at 119.38 90.17 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13474,7 +13576,7 @@
 		)
 		(uuid "c048fb01-4f82-4076-ae23-6a7cc8715e2d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.8306 124.46 0)
+			(at 127.5306 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13499,6 +13601,30 @@
 		(uuid "d10480d9-f017-4eb2-b8ef-24dad61415b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 146.0809 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "~{POW_MON_CS}"
+		(shape passive)
+		(at 119.38 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "d8388d70-a5e6-4136-af1a-b639d67fd55c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 126.4729 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13536,7 +13662,7 @@
 	)
 	(global_label "PREC_ACCEL_INT"
 		(shape passive)
-		(at 122.9511 97.79 0)
+		(at 131.8411 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13546,7 +13672,55 @@
 		)
 		(uuid "ec5e96ae-c853-441a-bd1d-9652671e3cd8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.3139 97.79 0)
+			(at 140.2039 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "~{SHOCK_ACCEL_CS}"
+		(shape passive)
+		(at 88.9 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "f1808bd6-62eb-413a-83e5-1af768ca1ba6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.7839 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "~{BAR_CS}"
+		(shape passive)
+		(at 88.9 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "f1cc36fe-df64-4e3a-88d9-2deab845b3d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.1869 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13619,6 +13793,30 @@
 		(uuid "ff90b4db-1fe4-492e-99c3-9f7bdeb90fb2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 56.1581 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "~{MAG_CS}"
+		(shape passive)
+		(at 88.9 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left)
+		)
+		(uuid "ff9e8fd5-4a8d-4edd-be0b-eab86e43b5d4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.3755 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14125,7 +14323,7 @@
 	)
 	(symbol
 		(lib_id "miscellaneous:+3.3V")
-		(at 123.19 74.93 0)
+		(at 118.11 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14136,7 +14334,7 @@
 		(fields_autoplaced yes)
 		(uuid "0b07fdbe-ab26-4363-9d11-60aaf6d3dbec")
 		(property "Reference" "#PWR077"
-			(at 123.19 85.09 0)
+			(at 118.11 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14147,7 +14345,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 123.19 71.12 0)
+			(at 118.11 92.71 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -14157,7 +14355,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.19 74.93 0)
+			(at 118.11 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14168,7 +14366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 74.93 0)
+			(at 118.11 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14179,7 +14377,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 123.19 74.93 0)
+			(at 118.11 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15930,6 +16128,84 @@
 		)
 	)
 	(symbol
+		(lib_id "miscellaneous:+3.3V")
+		(at 118.11 110.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "345a4082-c478-480b-835f-afdf633e48fe")
+		(property "Reference" "#PWR079"
+			(at 118.11 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 118.11 106.68 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "39ab1a79-7a9b-4765-8e30-63247deba772")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/9f226850-39ae-448a-a04e-0b533bef6f96"
+					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "miscellaneous:GND")
 		(at 182.88 149.86 0)
 		(unit 1)
@@ -16502,7 +16778,7 @@
 	)
 	(symbol
 		(lib_id "miscellaneous:+3.3V")
-		(at 105.41 116.84 0)
+		(at 118.11 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16513,7 +16789,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ccbf4e9-b2f6-4c14-98fc-b82e8d64a37d")
 		(property "Reference" "#PWR076"
-			(at 105.41 127 0)
+			(at 118.11 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16524,7 +16800,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 105.41 113.03 0)
+			(at 118.11 78.74 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -16534,7 +16810,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 116.84 0)
+			(at 118.11 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16545,7 +16821,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 116.84 0)
+			(at 118.11 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16556,7 +16832,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 116.84 0)
+			(at 118.11 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16580,7 +16856,7 @@
 	)
 	(symbol
 		(lib_id "passive_resistor:CRCW060310K0FKEAHP")
-		(at 105.41 78.74 0)
+		(at 105.41 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16591,7 +16867,7 @@
 		(fields_autoplaced yes)
 		(uuid "3db787af-ba98-485f-9809-189c14666a98")
 		(property "Reference" "R54"
-			(at 106.68 77.47 0)
+			(at 106.68 85.09 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -16602,7 +16878,7 @@
 			)
 		)
 		(property "Value" "${RESISTANCE}"
-			(at 106.68 80.01 0)
+			(at 106.68 87.63 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -16613,50 +16889,6 @@
 			)
 		)
 		(property "Footprint" "passive_resistor:R_0603_Density_Nominal"
-			(at 105.41 90.17 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
-			(at 105.41 92.71 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 105.41 87.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 105.41 95.25 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
 			(at 105.41 97.79 0)
 			(hide yes)
 			(show_name yes)
@@ -16667,7 +16899,7 @@
 				)
 			)
 		)
-		(property "Type" "Thick Film"
+		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
 			(at 105.41 100.33 0)
 			(hide yes)
 			(show_name yes)
@@ -16678,7 +16910,18 @@
 				)
 			)
 		)
-		(property "Resistance" "10kΩ"
+		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 105.41 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 105.41 102.87 0)
 			(hide yes)
 			(show_name yes)
@@ -16689,7 +16932,7 @@
 				)
 			)
 		)
-		(property "Voltage" "75V"
+		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
 			(at 105.41 105.41 0)
 			(hide yes)
 			(show_name yes)
@@ -16700,7 +16943,7 @@
 				)
 			)
 		)
-		(property "Power" "0.33W"
+		(property "Type" "Thick Film"
 			(at 105.41 107.95 0)
 			(hide yes)
 			(show_name yes)
@@ -16711,7 +16954,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Resistance" "10kΩ"
 			(at 105.41 110.49 0)
 			(hide yes)
 			(show_name yes)
@@ -16722,7 +16965,7 @@
 				)
 			)
 		)
-		(property "Temperature Coefficient" "±100ppm/°C"
+		(property "Voltage" "75V"
 			(at 105.41 113.03 0)
 			(hide yes)
 			(show_name yes)
@@ -16733,7 +16976,7 @@
 				)
 			)
 		)
-		(property "Minimum Temperature" "-55°C"
+		(property "Power" "0.33W"
 			(at 105.41 115.57 0)
 			(hide yes)
 			(show_name yes)
@@ -16744,7 +16987,7 @@
 				)
 			)
 		)
-		(property "Maximum Temperature" "+155°C"
+		(property "Tolerance" "±1%"
 			(at 105.41 118.11 0)
 			(hide yes)
 			(show_name yes)
@@ -16755,7 +16998,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Temperature Coefficient" "±100ppm/°C"
 			(at 105.41 120.65 0)
 			(hide yes)
 			(show_name yes)
@@ -16766,7 +17009,7 @@
 				)
 			)
 		)
-		(property "Ratings" "AEC-Q200"
+		(property "Minimum Temperature" "-55°C"
 			(at 105.41 123.19 0)
 			(hide yes)
 			(show_name yes)
@@ -16777,8 +17020,41 @@
 				)
 			)
 		)
-		(property "Mass" "0.002g"
+		(property "Maximum Temperature" "+155°C"
 			(at 105.41 125.73 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0603"
+			(at 105.41 128.27 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "AEC-Q200"
+			(at 105.41 130.81 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "0.002g"
+			(at 105.41 133.35 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -19801,6 +20077,231 @@
 		)
 	)
 	(symbol
+		(lib_id "passive_resistor:CRCW060310K0FKEAHP")
+		(at 118.11 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c253020-0fa1-4db8-93ea-74af4c6529cc")
+		(property "Reference" "R59"
+			(at 119.38 113.03 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "${RESISTANCE}"
+			(at 119.38 115.57 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "passive_resistor:R_0603_Density_Nominal"
+			(at 118.11 125.73 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
+			(at 118.11 128.27 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 118.11 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 118.11 130.81 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
+			(at 118.11 133.35 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Type" "Thick Film"
+			(at 118.11 135.89 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Resistance" "10kΩ"
+			(at 118.11 138.43 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "75V"
+			(at 118.11 140.97 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "0.33W"
+			(at 118.11 143.51 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "±1%"
+			(at 118.11 146.05 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Temperature Coefficient" "±100ppm/°C"
+			(at 118.11 148.59 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Minimum Temperature" "-55°C"
+			(at 118.11 151.13 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Maximum Temperature" "+155°C"
+			(at 118.11 153.67 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0603"
+			(at 118.11 156.21 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "AEC-Q200"
+			(at 118.11 158.75 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "0.002g"
+			(at 118.11 161.29 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6964445d-fded-4b1d-acea-527f3de9c8df")
+		)
+		(pin "2"
+			(uuid "829e2af3-82db-4ab5-b01c-10971c9405a6")
+		)
+		(instances
+			(project "flight_computer"
+				(path "/aee43b18-7cf7-43bb-b265-763f492d287e/9f226850-39ae-448a-a04e-0b533bef6f96"
+					(reference "R59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "miscellaneous:+3.3V")
 		(at 176.53 99.06 0)
 		(unit 1)
@@ -20852,7 +21353,7 @@
 	)
 	(symbol
 		(lib_id "passive_resistor:CRCW060310K0FKEAHP")
-		(at 105.41 92.71 0)
+		(at 105.41 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20863,7 +21364,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b4f1ae4-30b2-49d4-8ec0-d9296366b3c6")
 		(property "Reference" "R55"
-			(at 106.68 91.44 0)
+			(at 106.68 99.06 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -20874,7 +21375,7 @@
 			)
 		)
 		(property "Value" "${RESISTANCE}"
-			(at 106.68 93.98 0)
+			(at 106.68 101.6 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -20885,50 +21386,6 @@
 			)
 		)
 		(property "Footprint" "passive_resistor:R_0603_Density_Nominal"
-			(at 105.41 104.14 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
-			(at 105.41 106.68 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 105.41 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 105.41 109.22 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
 			(at 105.41 111.76 0)
 			(hide yes)
 			(show_name yes)
@@ -20939,7 +21396,7 @@
 				)
 			)
 		)
-		(property "Type" "Thick Film"
+		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
 			(at 105.41 114.3 0)
 			(hide yes)
 			(show_name yes)
@@ -20950,7 +21407,18 @@
 				)
 			)
 		)
-		(property "Resistance" "10kΩ"
+		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 105.41 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 105.41 116.84 0)
 			(hide yes)
 			(show_name yes)
@@ -20961,7 +21429,7 @@
 				)
 			)
 		)
-		(property "Voltage" "75V"
+		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
 			(at 105.41 119.38 0)
 			(hide yes)
 			(show_name yes)
@@ -20972,7 +21440,7 @@
 				)
 			)
 		)
-		(property "Power" "0.33W"
+		(property "Type" "Thick Film"
 			(at 105.41 121.92 0)
 			(hide yes)
 			(show_name yes)
@@ -20983,7 +21451,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Resistance" "10kΩ"
 			(at 105.41 124.46 0)
 			(hide yes)
 			(show_name yes)
@@ -20994,7 +21462,7 @@
 				)
 			)
 		)
-		(property "Temperature Coefficient" "±100ppm/°C"
+		(property "Voltage" "75V"
 			(at 105.41 127 0)
 			(hide yes)
 			(show_name yes)
@@ -21005,7 +21473,7 @@
 				)
 			)
 		)
-		(property "Minimum Temperature" "-55°C"
+		(property "Power" "0.33W"
 			(at 105.41 129.54 0)
 			(hide yes)
 			(show_name yes)
@@ -21016,7 +21484,7 @@
 				)
 			)
 		)
-		(property "Maximum Temperature" "+155°C"
+		(property "Tolerance" "±1%"
 			(at 105.41 132.08 0)
 			(hide yes)
 			(show_name yes)
@@ -21027,7 +21495,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Temperature Coefficient" "±100ppm/°C"
 			(at 105.41 134.62 0)
 			(hide yes)
 			(show_name yes)
@@ -21038,7 +21506,7 @@
 				)
 			)
 		)
-		(property "Ratings" "AEC-Q200"
+		(property "Minimum Temperature" "-55°C"
 			(at 105.41 137.16 0)
 			(hide yes)
 			(show_name yes)
@@ -21049,8 +21517,41 @@
 				)
 			)
 		)
-		(property "Mass" "0.002g"
+		(property "Maximum Temperature" "+155°C"
 			(at 105.41 139.7 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0603"
+			(at 105.41 142.24 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "AEC-Q200"
+			(at 105.41 144.78 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "0.002g"
+			(at 105.41 147.32 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -21648,7 +22149,7 @@
 	)
 	(symbol
 		(lib_id "miscellaneous:+3.3V")
-		(at 105.41 74.93 0)
+		(at 105.41 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21659,7 +22160,7 @@
 		(fields_autoplaced yes)
 		(uuid "931b09c3-0de1-4997-b657-d3df1a842cb7")
 		(property "Reference" "#PWR073"
-			(at 105.41 85.09 0)
+			(at 105.41 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21670,7 +22171,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 105.41 71.12 0)
+			(at 105.41 78.74 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -21680,7 +22181,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 74.93 0)
+			(at 105.41 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21691,7 +22192,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 74.93 0)
+			(at 105.41 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21702,7 +22203,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 74.93 0)
+			(at 105.41 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21940,7 +22441,7 @@
 	)
 	(symbol
 		(lib_id "miscellaneous:+3.3V")
-		(at 105.41 102.87 0)
+		(at 105.41 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21951,7 +22452,7 @@
 		(fields_autoplaced yes)
 		(uuid "9771f42c-3baa-442b-9317-63fa8202e2b5")
 		(property "Reference" "#PWR075"
-			(at 105.41 113.03 0)
+			(at 105.41 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21962,7 +22463,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 105.41 99.06 0)
+			(at 105.41 106.68 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -21972,7 +22473,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 102.87 0)
+			(at 105.41 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21983,7 +22484,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 102.87 0)
+			(at 105.41 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21994,7 +22495,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 102.87 0)
+			(at 105.41 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24928,7 +25429,7 @@
 	)
 	(symbol
 		(lib_id "passive_resistor:CRCW060310K0FKEAHP")
-		(at 123.19 78.74 0)
+		(at 118.11 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24939,7 +25440,7 @@
 		(fields_autoplaced yes)
 		(uuid "d08acdb6-9cb2-4d8e-a78a-0089784afbe6")
 		(property "Reference" "R58"
-			(at 124.46 77.47 0)
+			(at 119.38 99.06 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -24950,7 +25451,7 @@
 			)
 		)
 		(property "Value" "${RESISTANCE}"
-			(at 124.46 80.01 0)
+			(at 119.38 101.6 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -24961,7 +25462,7 @@
 			)
 		)
 		(property "Footprint" "passive_resistor:R_0603_Density_Nominal"
-			(at 123.19 90.17 0)
+			(at 118.11 111.76 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -24972,7 +25473,7 @@
 			)
 		)
 		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
-			(at 123.19 92.71 0)
+			(at 118.11 114.3 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -24983,7 +25484,7 @@
 			)
 		)
 		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 123.19 87.63 0)
+			(at 118.11 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24994,7 +25495,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay"
-			(at 123.19 95.25 0)
+			(at 118.11 116.84 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25005,7 +25506,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
-			(at 123.19 97.79 0)
+			(at 118.11 119.38 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25016,7 +25517,7 @@
 			)
 		)
 		(property "Type" "Thick Film"
-			(at 123.19 100.33 0)
+			(at 118.11 121.92 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25027,7 +25528,7 @@
 			)
 		)
 		(property "Resistance" "10kΩ"
-			(at 123.19 102.87 0)
+			(at 118.11 124.46 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25038,7 +25539,7 @@
 			)
 		)
 		(property "Voltage" "75V"
-			(at 123.19 105.41 0)
+			(at 118.11 127 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25049,7 +25550,7 @@
 			)
 		)
 		(property "Power" "0.33W"
-			(at 123.19 107.95 0)
+			(at 118.11 129.54 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25060,7 +25561,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 123.19 110.49 0)
+			(at 118.11 132.08 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25071,7 +25572,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 123.19 113.03 0)
+			(at 118.11 134.62 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25082,7 +25583,7 @@
 			)
 		)
 		(property "Minimum Temperature" "-55°C"
-			(at 123.19 115.57 0)
+			(at 118.11 137.16 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25093,7 +25594,7 @@
 			)
 		)
 		(property "Maximum Temperature" "+155°C"
-			(at 123.19 118.11 0)
+			(at 118.11 139.7 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25104,7 +25605,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 123.19 120.65 0)
+			(at 118.11 142.24 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25115,7 +25616,7 @@
 			)
 		)
 		(property "Ratings" "AEC-Q200"
-			(at 123.19 123.19 0)
+			(at 118.11 144.78 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25126,7 +25627,7 @@
 			)
 		)
 		(property "Mass" "0.002g"
-			(at 123.19 125.73 0)
+			(at 118.11 147.32 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25153,7 +25654,7 @@
 	)
 	(symbol
 		(lib_id "passive_resistor:CRCW060310K0FKEAHP")
-		(at 105.41 120.65 0)
+		(at 118.11 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25164,7 +25665,7 @@
 		(fields_autoplaced yes)
 		(uuid "d17369cb-9917-4e91-870d-c6a28dd33192")
 		(property "Reference" "R57"
-			(at 106.68 119.38 0)
+			(at 119.38 85.09 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -25175,7 +25676,7 @@
 			)
 		)
 		(property "Value" "${RESISTANCE}"
-			(at 106.68 121.92 0)
+			(at 119.38 87.63 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -25186,7 +25687,7 @@
 			)
 		)
 		(property "Footprint" "passive_resistor:R_0603_Density_Nominal"
-			(at 105.41 132.08 0)
+			(at 118.11 97.79 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25197,7 +25698,7 @@
 			)
 		)
 		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
-			(at 105.41 134.62 0)
+			(at 118.11 100.33 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25208,7 +25709,7 @@
 			)
 		)
 		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 105.41 129.54 0)
+			(at 118.11 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25219,7 +25720,7 @@
 			)
 		)
 		(property "Manufacturer" "Vishay"
-			(at 105.41 137.16 0)
+			(at 118.11 102.87 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25230,7 +25731,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
-			(at 105.41 139.7 0)
+			(at 118.11 105.41 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25241,7 +25742,7 @@
 			)
 		)
 		(property "Type" "Thick Film"
-			(at 105.41 142.24 0)
+			(at 118.11 107.95 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25252,7 +25753,7 @@
 			)
 		)
 		(property "Resistance" "10kΩ"
-			(at 105.41 144.78 0)
+			(at 118.11 110.49 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25263,7 +25764,7 @@
 			)
 		)
 		(property "Voltage" "75V"
-			(at 105.41 147.32 0)
+			(at 118.11 113.03 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25274,7 +25775,7 @@
 			)
 		)
 		(property "Power" "0.33W"
-			(at 105.41 149.86 0)
+			(at 118.11 115.57 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25285,7 +25786,7 @@
 			)
 		)
 		(property "Tolerance" "±1%"
-			(at 105.41 152.4 0)
+			(at 118.11 118.11 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25296,7 +25797,7 @@
 			)
 		)
 		(property "Temperature Coefficient" "±100ppm/°C"
-			(at 105.41 154.94 0)
+			(at 118.11 120.65 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25307,7 +25808,7 @@
 			)
 		)
 		(property "Minimum Temperature" "-55°C"
-			(at 105.41 157.48 0)
+			(at 118.11 123.19 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25318,7 +25819,7 @@
 			)
 		)
 		(property "Maximum Temperature" "+155°C"
-			(at 105.41 160.02 0)
+			(at 118.11 125.73 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25329,7 +25830,7 @@
 			)
 		)
 		(property "Package" "0603"
-			(at 105.41 162.56 0)
+			(at 118.11 128.27 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25340,7 +25841,7 @@
 			)
 		)
 		(property "Ratings" "AEC-Q200"
-			(at 105.41 165.1 0)
+			(at 118.11 130.81 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25351,7 +25852,7 @@
 			)
 		)
 		(property "Mass" "0.002g"
-			(at 105.41 167.64 0)
+			(at 118.11 133.35 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -25806,7 +26307,7 @@
 	)
 	(symbol
 		(lib_id "miscellaneous:+3.3V")
-		(at 105.41 88.9 0)
+		(at 105.41 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25817,7 +26318,7 @@
 		(fields_autoplaced yes)
 		(uuid "db0fd002-77d0-439e-89c7-a64e7b70d180")
 		(property "Reference" "#PWR074"
-			(at 105.41 99.06 0)
+			(at 105.41 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25828,7 +26329,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 105.41 85.09 0)
+			(at 105.41 92.71 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -25838,7 +26339,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 88.9 0)
+			(at 105.41 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25849,7 +26350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 88.9 0)
+			(at 105.41 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25860,7 +26361,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 88.9 0)
+			(at 105.41 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27279,7 +27780,7 @@
 	)
 	(symbol
 		(lib_id "passive_resistor:CRCW060310K0FKEAHP")
-		(at 105.41 106.68 0)
+		(at 105.41 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27290,7 +27791,7 @@
 		(fields_autoplaced yes)
 		(uuid "f420bc26-468d-4f6c-ab80-ff0821da2e6e")
 		(property "Reference" "R56"
-			(at 106.68 105.41 0)
+			(at 106.68 113.03 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -27301,7 +27802,7 @@
 			)
 		)
 		(property "Value" "${RESISTANCE}"
-			(at 106.68 107.95 0)
+			(at 106.68 115.57 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -27312,50 +27813,6 @@
 			)
 		)
 		(property "Footprint" "passive_resistor:R_0603_Density_Nominal"
-			(at 105.41 118.11 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
-			(at 105.41 120.65 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
-			(at 105.41 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Vishay"
-			(at 105.41 123.19 0)
-			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
 			(at 105.41 125.73 0)
 			(hide yes)
 			(show_name yes)
@@ -27366,7 +27823,7 @@
 				)
 			)
 		)
-		(property "Type" "Thick Film"
+		(property "Datasheet" "${KIPRJMOD}/library/datasheet/CRCW-HP_e3.pdf"
 			(at 105.41 128.27 0)
 			(hide yes)
 			(show_name yes)
@@ -27377,7 +27834,18 @@
 				)
 			)
 		)
-		(property "Resistance" "10kΩ"
+		(property "Description" "Resistor ${TYPE} ${RESISTANCE} ${VOLTAGE} ${POWER} ${TOLERANCE} ${TEMPERATURE COEFFICIENT} ${MINIMUM TEMPERATURE} ${MAXIMUM TEMPERATURE} ${PACKAGE} ${RATINGS}"
+			(at 105.41 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
 			(at 105.41 130.81 0)
 			(hide yes)
 			(show_name yes)
@@ -27388,7 +27856,7 @@
 				)
 			)
 		)
-		(property "Voltage" "75V"
+		(property "Manufacturer Part Number" "CRCW060310K0FKEAHP"
 			(at 105.41 133.35 0)
 			(hide yes)
 			(show_name yes)
@@ -27399,7 +27867,7 @@
 				)
 			)
 		)
-		(property "Power" "0.33W"
+		(property "Type" "Thick Film"
 			(at 105.41 135.89 0)
 			(hide yes)
 			(show_name yes)
@@ -27410,7 +27878,7 @@
 				)
 			)
 		)
-		(property "Tolerance" "±1%"
+		(property "Resistance" "10kΩ"
 			(at 105.41 138.43 0)
 			(hide yes)
 			(show_name yes)
@@ -27421,7 +27889,7 @@
 				)
 			)
 		)
-		(property "Temperature Coefficient" "±100ppm/°C"
+		(property "Voltage" "75V"
 			(at 105.41 140.97 0)
 			(hide yes)
 			(show_name yes)
@@ -27432,7 +27900,7 @@
 				)
 			)
 		)
-		(property "Minimum Temperature" "-55°C"
+		(property "Power" "0.33W"
 			(at 105.41 143.51 0)
 			(hide yes)
 			(show_name yes)
@@ -27443,7 +27911,7 @@
 				)
 			)
 		)
-		(property "Maximum Temperature" "+155°C"
+		(property "Tolerance" "±1%"
 			(at 105.41 146.05 0)
 			(hide yes)
 			(show_name yes)
@@ -27454,7 +27922,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Temperature Coefficient" "±100ppm/°C"
 			(at 105.41 148.59 0)
 			(hide yes)
 			(show_name yes)
@@ -27465,7 +27933,7 @@
 				)
 			)
 		)
-		(property "Ratings" "AEC-Q200"
+		(property "Minimum Temperature" "-55°C"
 			(at 105.41 151.13 0)
 			(hide yes)
 			(show_name yes)
@@ -27476,8 +27944,41 @@
 				)
 			)
 		)
-		(property "Mass" "0.002g"
+		(property "Maximum Temperature" "+155°C"
 			(at 105.41 153.67 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0603"
+			(at 105.41 156.21 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Ratings" "AEC-Q200"
+			(at 105.41 158.75 0)
+			(hide yes)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mass" "0.002g"
+			(at 105.41 161.29 0)
 			(hide yes)
 			(show_name yes)
 			(do_not_autoplace no)
